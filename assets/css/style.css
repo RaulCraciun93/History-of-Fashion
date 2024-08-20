@@ -16,7 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #161616bb
+    color: #161616f8;
 }
 
 /* Apply Oswald for headings */
@@ -24,6 +24,14 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
 }
 
+header a {
+    text-decoration: none;
+    color: #161616f8;
+}
+
+ul {
+    list-style-type: none;
+}
 
 /* Header */
 header {
@@ -32,7 +40,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 3px 3px #161616bb;
+    box-shadow: 0 3px 3px #161616f8;
     height: 105.5px;
 }
 
@@ -41,7 +49,7 @@ main {
     background-color: coral;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
-    padding-top: 105.5px;
+    padding-top: 107px;
     
 }
 
