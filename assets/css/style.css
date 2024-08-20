@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -20,7 +20,12 @@ body {
 }
 
 /* Apply Oswald for headings */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Oswald', sans-serif;
 }
 
@@ -45,7 +50,7 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 3px 3px #161616f8;
-    height: 105.5px;
+    height: auto;
     display: flex;
     align-items: baseline;
     justify-content: space-between;
@@ -76,11 +81,43 @@ main {
     background-color: coral;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
-    padding-top: 107px;
-    
+    padding-top: 75px;
+
 }
 
 /* Footer */
 footer {
     background-color: #eff3bd;
+}
+
+/* Tablets and larger screens */
+@media screen and (min-width: 768px) {
+    header {
+        justify-content: space-between;
+        padding: 0 2rem;
+    }
+
+    #logo {
+        font-size: 3rem;
+    }
+
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+        box-shadow: none;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 2rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
