@@ -27,12 +27,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 header {
-    background-color: red;
+    background-color: lightyellow;
 }
 
 /* Main Content */
 main {
-    background-color: blue;
+    background-color: coral;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
 }
