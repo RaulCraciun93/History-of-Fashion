@@ -125,3 +125,10 @@ footer {
         padding-top: 72px;
     }
 }
+
+/* Laptops and Desktops */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #161616f8;
+    }
+}
