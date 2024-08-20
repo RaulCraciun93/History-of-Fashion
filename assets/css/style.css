@@ -81,7 +81,7 @@ main {
     background-color: coral;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
-    padding-top: 75px;
+    padding-top: 50px;
 
 }
 
@@ -119,5 +119,9 @@ footer {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    main {
+        padding-top: 72px;
     }
 }
