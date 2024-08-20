@@ -16,7 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: black
+    color: #161616bb
 }
 
 /* Apply Oswald for headings */
@@ -27,7 +27,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 header {
-    background-color: lightyellow;
+    background-color: #eff3bd;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 3px 3px #161616bb;
+    height: 105.5px;
 }
 
 /* Main Content */
@@ -35,9 +41,11 @@ main {
     background-color: coral;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
+    padding-top: 105.5px;
+    
 }
 
 /* Footer */
 footer {
-    background-color: yellow;
+    background-color: #eff3bd;
 }
