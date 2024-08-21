@@ -96,7 +96,7 @@ footer {
     padding: 0; 
     margin: 0; 
     display: flex; 
-    justify-content: center; 
+    justify-content: space-evenly; 
 }
 
 #social-networks li {
@@ -105,6 +105,12 @@ footer {
 
 #social-networks a {
     font-size: 1.5rem;
+    color:#161616f8;
+    padding: 5%;
+}
+
+#social-networks a:hover {
+    color: coral;
 }
 
 /* Tablets and larger screens */
