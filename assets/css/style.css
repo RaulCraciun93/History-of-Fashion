@@ -88,6 +88,23 @@ main {
 /* Footer */
 footer {
     background-color: #eff3bd;
+    padding: 0.5rem;
+}
+
+/* Social Networks List */
+#social-networks {
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    justify-content: center; 
+}
+
+#social-networks li {
+    margin: 0 1rem;
+}
+
+#social-networks a {
+    font-size: 1.5rem;
 }
 
 /* Tablets and larger screens */
