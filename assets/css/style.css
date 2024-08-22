@@ -89,7 +89,7 @@ main {
     padding: 1rem;
     padding-top: 50px;
     color: white;
-    
+
 
 }
 
@@ -101,10 +101,10 @@ footer {
 
 /* Social Networks List */
 #social-networks {
-    padding: 0; 
-    margin: 0; 
-    display: flex; 
-    justify-content: space-evenly; 
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 #social-networks li {
@@ -113,12 +113,37 @@ footer {
 
 #social-networks a {
     font-size: 1.5rem;
-    color:#161616f8;
+    color: #161616f8;
     padding: 5%;
 }
 
 #social-networks a:hover {
     color: coral;
+}
+
+/* Mobile screen device */
+@media screen and (max-width: 768px) {
+    #fashion-history {
+        font-size: 0.6rem;
+        /* Smaller font size */
+        line-height: 1.4;
+        /* Adjust line height */
+        padding: 1rem 1.5rem;
+        /* Add padding around the text */
+        margin: 0 auto;
+        /* Center the section */
+        max-width: 90%;
+        /* Ensure the text doesn't take the full width */
+        background-color: rgba(0, 0, 0, 0.5);
+        /* Keep the semi-transparent background */
+        border-radius: 10px;
+        /* Slightly round the corners */
+    }
+
+    #fashion-history h2 {
+        font-size: 1rem;
+        /* Reduce heading size */
+    }
 }
 
 /* Tablets and larger screens */
