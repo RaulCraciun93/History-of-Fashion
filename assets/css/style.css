@@ -29,6 +29,11 @@ h6 {
     font-family: 'Oswald', sans-serif;
 }
 
+h2 {
+    padding-top: 1rem;
+    color: white;
+}
+
 header a {
     text-decoration: none;
     color: #161616f8;
@@ -78,10 +83,13 @@ nav {
 
 /* Main Content */
 main {
-    background-color: coral;
+    background: url("../images/yasin-pixel-2NQNlu2Y2LA-unsplash.jpg") no-repeat center center/cover;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
+    padding: 1rem;
     padding-top: 50px;
+    color: white;
+    
 
 }
 
