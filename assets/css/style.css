@@ -29,9 +29,10 @@ h6 {
     font-family: 'Playfair Display', sans-serif;
 }
 
+
 h2 {
     padding-top: 1rem;
-    color: #eff3bd;
+    color: #eaef97;
 }
 
 header a {
@@ -88,7 +89,7 @@ main {
     flex: 1 0 auto;
     padding: 1rem;
     padding-top: 50px;
-    color: #eff3bd
+    color: #eff3bd;
 }
 
 
@@ -182,6 +183,37 @@ main {
     max-width: 90%;
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 10px;
+}
+
+/* Gallery Styles */
+#gallery {
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 90%;
+    background-color: rgba(239, 243, 189, 0.3);
+    border-radius: 10px;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 20px;
+}
+
+.gallery-item {
+    text-align: center;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-item p {
+    margin-top: 0.5rem;
+    color: #161616f8;
 }
 
 
