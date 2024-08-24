@@ -84,7 +84,7 @@ nav {
 /* Main Content */
 main {
     /* Make main element take up any surplus space to push the footer down */
-    background: url("../images/yasin-pixel-2NQNlu2Y2LA-unsplash.jpg") no-repeat center center/cover;
+    background: url("../images/yasin-pixel-background.jpg") no-repeat center center/cover;
     flex: 1 0 auto;
     padding: 1rem;
     padding-top: 50px;
