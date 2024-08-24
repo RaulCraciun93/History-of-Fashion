@@ -1,5 +1,5 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -10,8 +10,8 @@
 
 /* General styles */
 body {
-    /* Apply Lato as the default font for the body */
-    font-family: 'Lato', sans-serif;
+    /* Apply Merriweather as the default font for the body */
+    font-family: 'Merriweather', sans-serif;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -19,14 +19,14 @@ body {
     color: #161616f8;
 }
 
-/* Apply Oswald for headings */
+/* Apply Playfair Display for headings */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', sans-serif;
 }
 
 h2 {
