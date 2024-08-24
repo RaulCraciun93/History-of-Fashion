@@ -83,12 +83,54 @@ nav {
 
 /* Main Content */
 main {
-    background: url("../images/yasin-pixel-2NQNlu2Y2LA-unsplash.jpg") no-repeat center center/cover;
     /* Make main element take up any surplus space to push the footer down */
+    background: url("../images/yasin-pixel-2NQNlu2Y2LA-unsplash.jpg") no-repeat center center/cover;
     flex: 1 0 auto;
     padding: 1rem;
     padding-top: 50px;
     color: #eff3bd
+}
+
+#fashion-history {
+    font-size: 0.7rem;
+    line-height: 1.4;
+    padding: 0.5rem 1rem;
+    margin: 1rem auto;
+    max-width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#fashion-history h2 {
+    font-size: 1rem;
+}
+
+#important-events {
+    font-size: 0.7rem;
+    line-height: 1.4;
+    padding: 0.5rem 1rem;
+    margin: 1rem auto;
+    max-width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#important-events h2 {
+    font-size: 1rem;
+}
+
+#designer-links {
+    font-size: 0.7rem;
+    line-height: 1.4;
+    padding: 0.5rem 1rem;
+    margin: 0 auto;
+    max-width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#designer-links h2 {
+    font-size: 1rem;
 }
 
 
@@ -122,85 +164,18 @@ footer {
 
 #designer-links a {
     color: #ffb347;
-    /* Use a color that contrasts well with the background */
     text-decoration: none;
-    /* Remove the underline */
     font-weight: bold;
-    /* Make the text bold for emphasis */
 }
 
 #designer-links a:hover {
     color: #d96a56;
-    /* A darker or lighter shade for the hover effect */
     text-decoration: underline;
-    /* Add underline on hover if you like */
 }
 
 /* Mobile screen device */
 @media screen and (max-width: 768px) {
-    #fashion-history {
-        font-size: 0.7rem;
-        /* Smaller font size */
-        line-height: 1.4;
-        /* Adjust line height */
-        padding: 0.5rem 1rem;
-        /* Add padding around the text */
-        margin: 1rem auto;
-        /* Center the section */
-        max-width: 90%;
-        /* Ensure the text doesn't take the full width */
-        background-color: rgba(0, 0, 0, 0.3);
-        /* Keep the semi-transparent background */
-        border-radius: 10px;
-        /* Slightly round the corners */
-    }
-
-    #fashion-history h2 {
-        font-size: 1rem;
-        /* Reduce heading size */
-    }
-
-    #important-events {
-        font-size: 0.7rem;
-        /* Smaller font size */
-        line-height: 1.4;
-        /* Adjust line height */
-        padding: 0.5rem 1rem;
-        /* Add padding around the text */
-        margin: 1rem auto;
-        /* Center the section */
-        max-width: 90%;
-        /* Ensure the text doesn't take the full width */
-        background-color: rgba(0, 0, 0, 0.3);
-        /* Keep the semi-transparent background */
-        border-radius: 10px;
-        /* Slightly round the corners */
-    }
-
-    #important-events h2 {
-        font-size: 1rem;
-    }
-
-    #designer-links {
-        font-size: 0.7rem;
-        /* Smaller font size */
-        line-height: 1.4;
-        /* Adjust line height */
-        padding: 0.5rem 1rem;
-        /* Add padding around the text */
-        margin: 0 auto;
-        /* Center the section */
-        max-width: 90%;
-        /* Ensure the text doesn't take the full width */
-        background-color: rgba(0, 0, 0, 0.3);
-        /* Keep the semi-transparent background */
-        border-radius: 10px;
-        /* Slightly round the corners */
-    }
-
-    #designer-links h2 {
-        font-size: 1rem;
-    }
+    
 }
 
 /* Tablets and larger screens */
@@ -240,33 +215,24 @@ footer {
 
     #fashion-history {
         font-size: 1rem;
-        /* Adjust font size */
         line-height: 1.5;
-        /* Adjust line height */
         max-width: 70%;
-        /* Adjust max-width */
         margin-left: 1rem;
         margin-top: 1rem;
     }
 
     #important-events {
         font-size: 1rem;
-        /* Adjust font size */
         line-height: 1.5;
-        /* Adjust line height */
         max-width: 70%;
-        /* Adjust max-width */
         margin-left: 1rem;
         margin-top: 1rem;
     }
 
     #designer-links {
         font-size: 1rem;
-        /* Adjust font size */
         line-height: 1.5;
-        /* Adjust line height */
         max-width: 70%;
-        /* Adjust max-width */
         margin-left: 1rem;
         margin-top: 1rem;
     }
@@ -280,11 +246,8 @@ footer {
 
     #fashion-history {
         font-size: 1.1rem;
-        /* Even larger font size */
         line-height: 1.6;
-        /* Adjust line height */
         max-width: 60%;
-        /* Further adjust max-width */
         background-color: rgba(0, 0, 0, 0.3);
         border-radius: 10px;
         padding: 1rem 1.5rem;
@@ -292,11 +255,8 @@ footer {
 
     #important-events {
         font-size: 1.1rem;
-        /* Even larger font size */
         line-height: 1.6;
-        /* Adjust line height */
         max-width: 60%;
-        /* Further adjust max-width */
         background-color: rgba(0, 0, 0, 0.3);
         border-radius: 10px;
         padding: 1rem 1.5rem;
@@ -304,11 +264,8 @@ footer {
 
     #designer-links {
         font-size: 1.1rem;
-        /* Even larger font size */
         line-height: 1.6;
-        /* Adjust line height */
         max-width: 60%;
-        /* Further adjust max-width */
         background-color: rgba(0, 0, 0, 0.3);
         border-radius: 10px;
         padding: 1rem 1.5rem;
