@@ -91,6 +91,8 @@ main {
     color: #eff3bd
 }
 
+
+/* Styling for the fashion-history section */
 #fashion-history {
     font-size: 0.7rem;
     line-height: 1.4;
@@ -105,6 +107,8 @@ main {
     font-size: 1rem;
 }
 
+
+/* Styling for the important-events section */
 #important-events {
     font-size: 0.7rem;
     line-height: 1.4;
@@ -119,6 +123,8 @@ main {
     font-size: 1rem;
 }
 
+
+/* Styling for the desinger-links section */
 #designer-links {
     font-size: 0.7rem;
     line-height: 1.4;
@@ -131,6 +137,91 @@ main {
 
 #designer-links h2 {
     font-size: 1rem;
+}
+
+#designer-links a {
+    font-size: 1rem;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+/* Styling for the Articles Section */
+#fashion-articles {
+    font-size: 0.7rem;
+    line-height: 1.4;
+    padding: 0.5rem 1rem;
+    margin: 1rem auto;
+    max-width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#fashion-articles ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    font-size: 1rem;
+}
+
+#fashion-articles a {
+    color: #ffb347;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#fashion-articles a:hover {
+    color: #d96a56;
+    text-decoration: underline;
+}
+
+/* Styling for the Quotes Section */
+#fashion-quotes {
+    font-size: 0.7rem;
+    line-height: 1.4;
+    padding: 0.5rem 1rem;
+    margin: 1rem auto;
+    max-width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+
+/* Contact Form Styles */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: rgba(239, 243, 189, 0.5);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button[type="submit"] {
+    background-color: #d96a56;
+    color: #fff;
+    padding: 0.7rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form button[type="submit"]:hover {
+    background-color: #c65544;
 }
 
 
@@ -174,9 +265,7 @@ footer {
 }
 
 /* Mobile screen device */
-@media screen and (max-width: 768px) {
-    
-}
+@media screen and (max-width: 768px) {}
 
 /* Tablets and larger screens */
 @media screen and (min-width: 768px) {
