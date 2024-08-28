@@ -358,7 +358,7 @@ footer {
         margin-top: 1rem;
     }
 
-   
+
 }
 
 
@@ -368,6 +368,22 @@ footer {
         border-bottom: 1px solid #161616f8;
     }
 
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    #fashion-history h2,
+    #important-events h2,
+    #designer-links h2,
+    #fashion-articles h2,
+    #fashion-quotes h2 {
+        font-size: 2rem;
+        color: #f2f88e;
+    }
+
+
     #fashion-history {
         font-size: 1.1rem;
         line-height: 1.6;
@@ -375,23 +391,57 @@ footer {
         background-color: rgba(0, 0, 0, 0.3);
         border-radius: 10px;
         padding: 1rem 1.5rem;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+        border-bottom: 2px solid;
+
     }
 
     #important-events {
         font-size: 1.1rem;
         line-height: 1.6;
         max-width: 60%;
-        background-color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
         padding: 1rem 1.5rem;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+        border-bottom: 2px solid;
     }
 
     #designer-links {
         font-size: 1.1rem;
         line-height: 1.6;
         max-width: 60%;
-        background-color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0.5);
         border-radius: 10px;
         padding: 1rem 1.5rem;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+        border-bottom: 2px solid;
+    }
+
+    #fashion-articles {
+        font-size: 1.1rem;
+        line-height: 1.6;
+        max-width: 60%;
+        background-color: rgba(0, 0, 0, 0.6);
+        border-radius: 10px;
+        padding: 1rem 1.5rem;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+        border-bottom: 2px solid;
+    }
+
+    #fashion-quotes {
+        font-size: 1.1rem;
+        line-height: 1.6;
+        max-width: 60%;
+        background-color: rgba(0, 0, 0, 0.7);
+        border-radius: 10px;
+        padding: 1rem 1.5rem;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+        border-bottom: 2px solid;
     }
 }
