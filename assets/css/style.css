@@ -312,7 +312,10 @@ footer {
 
 /* Mobile screen device */
 @media screen and (max-width: 768px) {
-   
+    p {
+        font-size: 0.8rem;
+        line-height: 1.5;
+    }
 }
 
 /* Tablets and larger screens */
@@ -349,6 +352,8 @@ footer {
     main {
         padding-top: 72px;
     }
+
+    
 
     #fashion-history {
         font-size: 1rem;
