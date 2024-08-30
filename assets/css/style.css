@@ -93,6 +93,8 @@ main {
 }
 
 
+
+
 /* Styling for the fashion-history section */
 #fashion-history {
     font-size: 0.7rem;
@@ -105,7 +107,7 @@ main {
 }
 
 #fashion-history h2 {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 
@@ -121,7 +123,7 @@ main {
 }
 
 #important-events h2 {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 
@@ -137,13 +139,15 @@ main {
 }
 
 #designer-links h2 {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 #designer-links a {
     font-size: 1rem;
     line-height: 1.4;
     text-decoration: none;
+    display: block;
+    margin-bottom: 0.5rem;
 }
 
 /* Styling for the Articles Section */
@@ -157,6 +161,10 @@ main {
     border-radius: 10px;
 }
 
+#fashion-articles h2 {
+    font-size: 1.2rem;
+}
+
 #fashion-articles ul {
     list-style-type: disc;
     padding-left: 1.5rem;
@@ -167,6 +175,8 @@ main {
     color: #ffb347;
     text-decoration: none;
     font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
 }
 
 #fashion-articles a:hover {
@@ -183,6 +193,10 @@ main {
     max-width: 90%;
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 10px;
+}
+
+#fashion-quotes h2 {
+    font-size: 1.2rem;
 }
 
 /* Gallery Styles */
@@ -297,7 +311,9 @@ footer {
 }
 
 /* Mobile screen device */
-@media screen and (max-width: 768px) {}
+@media screen and (max-width: 768px) {
+   
+}
 
 /* Tablets and larger screens */
 @media screen and (min-width: 768px) {
