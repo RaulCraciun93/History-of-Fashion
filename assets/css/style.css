@@ -444,4 +444,8 @@ footer {
         margin-bottom: 2rem;
         border-bottom: 2px solid;
     }
+
+    form {
+        max-width: 1500px;
+    }
 }

@@ -1,4 +1,4 @@
-## History of Fashion
+# History of Fashion
 
 #### Table of Contents
 
@@ -56,7 +56,7 @@ The History of Fashion website is designed to educate users about the evolution 
 	• CSS3: For styling and responsive design.
 	• Font Awesome: For icons used in the social media links.
 	• Google Fonts: For typography.
-        • Pexel and Unslpash: For images.
+	• Pexel and Unslpash: For images.
 
 #### Testing
 
