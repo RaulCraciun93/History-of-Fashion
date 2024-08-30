@@ -7,10 +7,10 @@
 	3. User Experience (UX)
 	4. Color Scheme
         5. Typography
-	5. Technologies Used
-	6. Testing
-	7. Deployment
-	8. Credits
+	6. Technologies Used
+	7. Testing
+	8. Deployment
+	9. Credits
 
 #### Project Overview
 
@@ -71,11 +71,11 @@ The History of Fashion website is designed to educate users about the evolution 
 The project was deployed using GitHub Pages.
 
   To deploy this project: 
-	  1. Navigate to your GitHub repository.
-	  2. Go to the “Settings” tab.
-	  3. Scroll down to the “GitHub Pages” section.
-	  4. Under “Source”, select the main branch and click “Save”.
-	  5. Your project will be published at https://username.github.io/History-of-Fashion/.
+	   1. Navigate to your GitHub repository.
+	   2. Go to the “Settings” tab.
+	   3. Scroll down to the “GitHub Pages” section.
+	   4. Under “Source”, select the main branch and click “Save”.
+	   5. Your project will be published at https://username.github.io/History-of-Fashion/.
 
 #### Credits
 
