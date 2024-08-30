@@ -5,11 +5,8 @@
 	1. Project Overview
 	2. Features
 	3. User Experience (UX)
-	  •	Target Audience
-	  •	User Stories
-	4.	Design
-	  •	Color Scheme
-	  •	Typography
+	4. Color Scheme
+        5. Typography
 	5. Technologies Used
 	6. Testing
 	7. Deployment
@@ -21,25 +18,25 @@ The History of Fashion website is designed to educate users about the evolution 
 
 #### Features
 
-	•	Responsive Navbar: A toggle navigation menu for easy access to different pages.
-	•	Hero Section: A visually appealing introduction with background images and descriptive text.
-	•	Informative Content Sections:
-    -History of Fashion: information about the evolution of fashion across different eras.
-	  -Important Fashion Events: Highlights events that have shaped the fashion industry.
-	  -Famous Designers: Lists influential designers with links to their official websites.
-	  -Articles: A section dedicated to articles about various fashion topics.
-	  -Famous Quotes: Inspirational quotes related to fashion and style.
-	•	Social Media Links: Icons with links to relevant social media platforms.
-	•	Contact Form: A form for users to sign up and engage with the content.
+	 • Responsive Navbar: A toggle navigation menu for easy access to different pages.
+	 • Hero Section: A visually appealing introduction with background images and descriptive text.
+	 • Informative Content Sections:
+                  -History of Fashion: information about the evolution of fashion across different eras.
+	          -Important Fashion Events: Highlights events that have shaped the fashion industry.
+	          -Famous Designers: Lists influential designers with links to their official websites.
+	          -Articles: A section dedicated to articles about various fashion topics.
+	          -Famous Quotes: Inspirational quotes related to fashion and style.
+	  • Social Media Links: Icons with links to relevant social media platforms.
+	  • Contact Form: A form for users to sign up and engage with the content.
 
 
 #### User Experience (UX)
 
  •User Stories
 
-	1.	As a user, I want to learn about the different eras of fashion, understanding how fashion has evolved over time.
-	2.	As a visitor, I want to view a gallery of images, read articles, and explore fashion trends.
-	3.	As an enthusiast, I want to read famous quotes and sign up for more information or newsletters.
+	1. As a user, I want to learn about the different eras of fashion, understanding how fashion has evolved over time.
+	2. As a visitor, I want to view a gallery of images, read articles, and explore fashion trends.
+	3. As an enthusiast, I want to read famous quotes and sign up for more information or newsletters.
 
 
  •Colour Scheme:
@@ -49,25 +46,25 @@ The History of Fashion website is designed to educate users about the evolution 
 
 #### Typography
 
-	•	Body Text: ‘Merriweather’, sans-serif - Designed and pleasant for on-screen reading.
-	•	Headings: ‘Playfair Display’, sans-serif - For the high contrast between its thick and thin lines.
+	• Body Text: ‘Merriweather’, sans-serif - Designed and pleasant for on-screen reading.
+	• Headings: ‘Playfair Display’, sans-serif - For the high contrast between its thick and thin lines.
 .
 
 #### Technologies Used
 
-	•	HTML5: For structure and content.
-	•	CSS3: For styling and responsive design.
-	•	Font Awesome: For icons used in the social media links.
-	•	Google Fonts: For typography.
-  • Pexel and Unslpash: For images.
+	• HTML5: For structure and content.
+	• CSS3: For styling and responsive design.
+	• Font Awesome: For icons used in the social media links.
+	• Google Fonts: For typography.
+        • Pexel and Unslpash: For images.
 
 #### Testing
 
-	•	Responsiveness: Tested across multiple devices and screen sizes including tablets, and desktops.
-	•	Browser Compatibility: ??
-	•	Accessibility: ??
-	•	Link Testing: All internal and external links were tested to ensure they direct to the correct page and open in new tabs.
-	•	Form Validation: The sign-up form was tested for proper validation to ensure all required fields are completed before submission.
+	• Responsiveness: Tested across multiple devices and screen sizes including tablets, and desktops.
+	• Browser Compatibility: ??
+	• Accessibility: ??
+	• Link Testing: All internal and external links were tested to ensure they direct to the correct page and open in new tabs.
+	• Form Validation: The sign-up form was tested for proper validation to ensure all required fields are completed before submission.
 
 #### Deployment
 
@@ -83,6 +80,6 @@ The project was deployed using GitHub Pages.
 #### Credits
 
 	• Content: Information about the history of fashion was sourced from websites like Wikipedia and other fashion websites.
-	•	Images: All images used in the project are from Unsplash and Pexels, a source of free high-resolution photos.
-	•	Quotes and Articles: From various fashion blogs.
-	•	Code Inspiration: Various design and functionality ideas were inspired by tutorials from the Code Institute course and web development resources like MDN Web Docs.
+	• Images: All images used in the project are from Unsplash and Pexels, a source of free high-resolution photos.
+	• Quotes and Articles: From various fashion blogs.
+	• Code Inspiration: Various design and functionality ideas were inspired by tutorials from the Code Institute course and web development resources like MDN Web Docs.
