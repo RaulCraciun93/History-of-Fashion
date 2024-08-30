@@ -6,7 +6,7 @@
 	2. Features
 	3. User Experience (UX)
 	4. Color Scheme
-        5. Typography
+    5. Typography
 	6. Technologies Used
 	7. Testing
 	8. Deployment
@@ -18,16 +18,16 @@ The History of Fashion website is designed to educate users about the evolution 
 
 #### Features
 
-	 • Responsive Navbar: A toggle navigation menu for easy access to different pages.
-	 • Hero Section: A visually appealing introduction with background images and descriptive text.
-	 • Informative Content Sections:
-                  -History of Fashion: information about the evolution of fashion across different eras.
-	          -Important Fashion Events: Highlights events that have shaped the fashion industry.
-	          -Famous Designers: Lists influential designers with links to their official websites.
-	          -Articles: A section dedicated to articles about various fashion topics.
-	          -Famous Quotes: Inspirational quotes related to fashion and style.
-	  • Social Media Links: Icons with links to relevant social media platforms.
-	  • Contact Form: A form for users to sign up and engage with the content.
+	• Responsive Navbar: A toggle navigation menu for easy access to different pages.
+	• Hero Section: A visually appealing introduction with background images and descriptive text.
+	• Informative Content Sections:
+		-History of Fashion: information about the evolution of fashion across different eras.
+		-Important Fashion Events: Highlights events that have shaped the fashion industry.
+		-Famous Designers: Lists influential designers with links to their official websites.
+		-Articles: A section dedicated to articles about various fashion topics
+		-Famous Quotes: Inspirational quotes related to fashion and style.
+	• Social Media Links: Icons with links to relevant social media platforms.
+	• Contact Form: A form for users to sign up and engage with the content.
 
 
 #### User Experience (UX)
