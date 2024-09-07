@@ -127,6 +127,8 @@ main {
 }
 
 
+
+
 /* Styling for the desinger-links section */
 #designer-links {
     font-size: 0.7rem;
@@ -313,6 +315,11 @@ footer {
 /* Mobile screen device */
 @media screen and (max-width: 768px) {
     p {
+        font-size: 0.8rem;
+        line-height: 1.5;
+    }
+
+    #important-events li {
         font-size: 0.8rem;
         line-height: 1.5;
     }
