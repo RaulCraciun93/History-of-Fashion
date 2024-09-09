@@ -20,6 +20,7 @@
 		• Form Validation
 	8. Deployment
 	9. Credits
+	10. Acknowledgements
 
 #### Project Overview
 
@@ -112,7 +113,7 @@ The History of Fashion website is designed to educate users about the evolution 
 	2. Go to the "Settings" tab.
 	3. Scroll down to the "GitHub Pages" section.
 	4. Under "Source", select the main branch and click "Save".
-	5. Your project will be published at [https://raulcraciun93.github.io/History-of-Fashion/](https://raulcraciun93.github.io/History-of-Fashion/).
+	5. Your project will be published at [https://raulcraciun93.github.io/History-of-Fashion/] https://raulcraciun93.github.io/History-of-Fashion/.
 
 #### Credits
 
