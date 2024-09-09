@@ -107,12 +107,12 @@ The History of Fashion website is designed to educate users about the evolution 
 
 The project was deployed using GitHub Pages.
 
-  To deploy this project: 
-	   1. Navigate to your GitHub repository.
-	   2. Go to the “Settings” tab.
-	   3. Scroll down to the “GitHub Pages” section.
-	   4. Under “Source”, select the main branch and click “Save”.
-	   5. Your project will be published at https://raulcraciun93.github.io/History-of-Fashion/.
+  To deploy this project:
+	1. Navigate to your GitHub repository.
+	2. Go to the "Settings" tab.
+	3. Scroll down to the "GitHub Pages" section.
+	4. Under "Source", select the main branch and click "Save".
+	5. Your project will be published at https://raulcraciun93.github.io/History-of-Fashion/.
 
 #### Credits
 
@@ -122,3 +122,7 @@ The project was deployed using GitHub Pages.
 	• Code Inspiration: Various design and functionality ideas were inspired by tutorials from the Code Institute course and web development resources like MDN Web Docs.
 	• Footer Icons: FontAwesome.
 	• Fonts: Google Fonts.
+
+#### Acknowledgements
+
+	• I would like to thank my mentor Rory and Code Institute for providing guidance and resources for this project.
