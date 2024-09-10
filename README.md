@@ -95,6 +95,8 @@ The History of Fashion website is designed to educate users about the evolution 
 
 	![contact screenshot](testing/html-contact-validation.png)
 
+	![404 screensshot](testing/html-404-validation.png)
+
 	• CSS Validation: The CSS was tested using the W3C CSS Validator and passed with no errors.
 
 	![css screenshot](testing/css-style-validation.png)
