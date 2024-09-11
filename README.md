@@ -103,17 +103,22 @@ The History of Fashion website is designed to educate users about the evolution 
 #### HTML Validation
 The HTML pages were tested using the W3C HTML Validator and passed with no errors.
 
+Home  Page  HTML  validation  screenshot:
 ![home screenshot](assets/readme-images/html-home-validation.png)
 
+Gallery  Page  HTML  validation  screenshot:
 ![gallery screenshot](assets/readme-images/html-gallery-validation.png)
 
+Contact  Page  HTML  validation  screenshot:
 ![contact screenshot](assets/readme-images/html-contact-validation.png)
 
+404   Page  HTML  validation  screenshot:
 ![404 screenshot](assets/readme-images/html-404-validation.png)
 
 #### CSS Validation
 The CSS was tested using the W3C CSS Validator and passed with no errors.
 
+CSS   validation  screenshot:
 ![css screenshot](assets/readme-images/css-style-validation.png)
 
 #### Responsiveness
