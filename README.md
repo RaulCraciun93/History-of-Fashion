@@ -37,7 +37,7 @@ The History of Fashion website is designed to educate users about the evolution 
 ### Features
 
 #### Home Page
-![screenshot]
+![home   page  screenshot](assets/readme-images/homepage-screenshot.png)
 
 - Responsive Navbar: A toggle navigation menu for easy access to different pages.
 - Hero Section: A visually appealing introduction with background images and descriptive text.
@@ -50,14 +50,20 @@ The History of Fashion website is designed to educate users about the evolution 
 - Social Media Links: Icons with links to relevant social media platforms.
 
 #### Gallery Page
-![screenshot]
+![gallery page screenshot](assets/readme-images/gallerypage-screenshot.png)
 
 - Gallery Section: Displays a grid of images showcasing fashion icons like Vivienne Westwood, Chanel, and others.
 
 #### Contact Page
-![screenshot]
+![contact page screenshot](assets/readme-images/contactpage-screenshots.png)
 
 - A simple form that allows users to send inquiries or messages.
+
+##### Menu
+![menu screenshot](assets/readme-images/menu-screenshot.png)
+
+##### Footer
+![footer screenshot](assets/readme-images/footer-screenshot.png)
 
 ---
 
@@ -73,6 +79,9 @@ The History of Fashion website is designed to educate users about the evolution 
 
 ##### Colour Scheme
 - Primary Colours: A soft cream (#eff3bd) and coral (#ffb347) to create a vintage feel.
+
+![color pallette screenshot](assets/readme-images/color-pallette.png)
+
 - Accent Colours: A darker shade (#161616f8) for text to ensure readability.
 
 ##### Typography
@@ -101,7 +110,7 @@ The History of Fashion website is designed to educate users about the evolution 
 ### Testing
 
 #### HTML Validation
-The HTML pages were tested using the W3C HTML Validator and passed with no errors.
+The HTML pages were tested using the [W3C HTML5 Validator](https://validator.w3.org/) and passed with no errors. 
 
 Home  Page  HTML  validation  screenshot:
 ![home screenshot](assets/readme-images/html-home-validation.png)
@@ -116,16 +125,15 @@ Contact  Page  HTML  validation  screenshot:
 ![404 screenshot](assets/readme-images/html-404-validation.png)
 
 #### CSS Validation
-The CSS was tested using the W3C CSS Validator and passed with no errors.
+The CSS was tested using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and passed with no errors.
 
 CSS   validation  screenshot:
 ![css screenshot](assets/readme-images/css-style-validation.png)
 
 #### Responsiveness
 Tested across multiple devices and screen sizes, including tablets, and desktops.
-![screenshot]
-![screenshot]
-![screenshot]
+![screenshot](assets/readme-images/responsivness-across-different-screen-sizes.png)
+![screenshot](assets/readme-images/responsivness.png)
 
 #### Browser Compatibility
 The website was tested on different browsers (Chrome, Firefox, and Safari) to ensure compatibility.
