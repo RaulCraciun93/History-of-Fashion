@@ -167,17 +167,21 @@ The website was tested on different browsers (Chrome, Firefox, and Safari) to en
 
 The website was tested using Lighthouse [PageSpeed Insights](https://pagespeed.web.dev/) to ensure accessibility. It achieved high scores of 100 for Accessibility, Best Practices and SEO.
 
- - Mobile:
+- Mobile:
 
- ![Screenshot home](assets/readme-images/lighthouse-home-mobile.png)
- ![Screenshot gallery](assets/readme-images/lighthouse-gallery-mobile.png)
- ![Screenshot contact](assets/readme-images/lighthouse-contact-mobile.png)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/readme-images/lighthouse-home-mobile.png" alt="lighthouse home page score" width="33%">
+  <img src="assets/readme-images/lighthouse-gallery-mobile.png" alt="lighthouse gallery page score" width="33%">
+  <img src="assets/readme-images/lighthouse-contact-mobile.png" alt="lighthouse contact page score" width="33%">
+</div>
 
- -  Desktop:
+- Desktop:
 
- ![Screenshot home](assets/readme-images/lighthouse-home-desktop.png)
- ![Screenshot gallery](assets/readme-images/lighthouse-gallery-desktop.png) 
- ![Screenshot contact](assets/readme-images/lighthouse-contact-desktop.png)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/readme-images/lighthouse-home-desktop.png" alt="lighthouse home page score" width="33%">
+  <img src="assets/readme-images/lighthouse-gallery-desktop.png" alt="lighthouse gallery page score" width="33%">
+  <img src="assets/readme-images/lighthouse-contact-desktop.png" alt="lighthouse contact page score" width="33%">
+</div>
 
 #### Performance
 
@@ -191,7 +195,10 @@ All internal and external links were tested to ensure they direct to the correct
 
 The Contact form was tested for proper validation to ensure all required fields are completed before submission.
 
-| ![screenshot](assets/readme-images/contact-form-validation.png) | | ![screenshot](assets/readme-images/contact-form-submitted.png) |
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/readme-images/contact-form-validation.png" alt="form validation" width="50%">
+  <img src="assets/readme-images/contact-form-submitted.png" alt="form submitted" width="50%">
+</div>
 
 ---
 
@@ -205,7 +212,6 @@ To deploy this project:
 3. Scroll down to the "GitHub Pages" section.
 4. Under "Source", select the main branch and click "Save".
 5. Your project will be published on Github Pages. 
-
 
 ---
 
