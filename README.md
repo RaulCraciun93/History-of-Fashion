@@ -50,19 +50,23 @@ The History of Fashion website is designed to educate users about the evolution 
 - Social Media Links: Icons with links to relevant social media platforms.
 
 #### Gallery Page
+
 ![gallery page screenshot](assets/readme-images/gallerypage-screenshot.png)
 
 - Gallery Section: Displays a grid of images showcasing fashion icons like Vivienne Westwood, Chanel, and others.
 
 #### Contact Page
+
 ![contact page screenshot](assets/readme-images/contactpage-screenshots.png)
 
 - A simple form that allows users to send inquiries or messages.
 
 ##### Menu
+
 ![menu screenshot](assets/readme-images/menu-screenshot.png)
 
 ##### Footer
+
 ![footer screenshot](assets/readme-images/footer-screenshot.png)
 
 ---
@@ -78,6 +82,7 @@ The History of Fashion website is designed to educate users about the evolution 
 #### Design
 
 ##### Colour Scheme
+
 - Primary Colours: A soft cream (#eff3bd) and coral (#ffb347) to create a vintage feel.
 
 ![color pallette screenshot](assets/readme-images/color-pallette.png)
@@ -87,13 +92,16 @@ The History of Fashion website is designed to educate users about the evolution 
 ![color pallette screenshot](assets/readme-images/colour-pallette.png)
 
 ##### Typography
+
 - Body Text: ‘Merriweather’, sans-serif - Designed and pleasant for on-screen reading.
 - Headings: ‘Playfair Display’, sans-serif - For the high contrast between its thick and thin lines.
 
 ##### Imagery
+
 - Large, high-quality images are used throughout to engage users visually.
 
 ##### Wireframes
+
 ![screenshots]
 
 ---
@@ -112,6 +120,7 @@ The History of Fashion website is designed to educate users about the evolution 
 ### Testing
 
 #### HTML Validation
+
 The HTML pages were tested using the [W3C HTML5 Validator](https://validator.w3.org/) and passed with no errors. 
 
 Home  Page  HTML  validation  screenshot:
@@ -127,38 +136,51 @@ Contact  Page  HTML  validation  screenshot:
 ![404 screenshot](assets/readme-images/html-404-validation.png)
 
 #### CSS Validation
+
 The CSS was tested using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and passed with no errors.
 
 CSS   validation  screenshot:
 ![css screenshot](assets/readme-images/css-style-validation.png)
 
 #### Responsiveness
+
 Tested across multiple devices and screen sizes, including tablets, and desktops.
 ![screenshot](assets/readme-images/responsivness-across-different-screen-sizes.png)
 ![screenshot](assets/readme-images/responsivness.png)
 
 #### Browser Compatibility
+
 The website was tested on different browsers (Chrome, Firefox, and Safari) to ensure compatibility.
 
 #### Accessibility
+
 The website was tested using  Lighthouse   [PageSpeed Insights](https://pagespeed.web.dev/) to ensure accessibility. It achieved high scores of 100 for Accessibility,  Best  Practices and SEO.
 
- Mobile:
+ - Mobile:
 
-![screenshot home](assets/readme-images/lighthouse-home-mobile.png) ![screenshot gallery](assets/readme-images/lighthouse-gallery-mobile.png)  ![screenshot contact](assets/readme-images/lighthouse-contact-mobile.png)
+ ![screenshot home](assets/readme-images/lighthouse-home-mobile.png)
+ ![screenshot gallery](assets/readme-images/lighthouse-gallery-mobile.png)
+ ![screenshot contact](assets/readme-images/lighthouse-contact-mobile.png)
 
 -  Desktop:
 
-![screenshot home](assets/readme-images/lighthouse-home-desktop.png) ![screenshot gallery](assets/readme-images/lighthouse-gallery-desktop.png)  ![screenshot contact](assets/readme-images/lighthouse-contact-desktop.png)
+![screenshot home](assets/readme-images/lighthouse-home-desktop.png)
+![screenshot gallery](assets/readme-images/lighthouse-gallery-desktop.png) 
+![screenshot contact](assets/readme-images/lighthouse-contact-desktop.png)
 
 #### Performance
+
 The images were optimized using TinyPNG and Lighthouse reports were run to check the load time.
 
 #### Link Testing
+
 All internal and external links were tested to ensure they direct to the correct page and open in new tabs.
 
 #### Form Validation
+
 The Contact form was tested for proper validation to ensure all required fields are completed before submission.
+
+|  ![screenshot](assets/readme-images/contact-form-validation.png)   |  |  ![screenshot](assets/readme-images/contact-form-submitted.png) |
 
 ---
 
