@@ -142,7 +142,8 @@ The website was tested on different browsers (Chrome, Firefox, and Safari) to en
 
 #### Accessibility
 The website was tested using  Lighthouse   [PageSpeed Insights](https://pagespeed.web.dev/) to ensure accessibility. It achieved high scores for Accessibility,  Best  Practices and SEO.
--  Mobile:
+
+ Mobile:
 
 ![screenshot home](assets/readme-images/page-insight-home-mobile.png) ![screenshot gallery](assets/readme-images/page-insight-gallery-mobile.png)  ![screenshot contact](assets/readme-images/page-insight-contact-mobile.png)
 
