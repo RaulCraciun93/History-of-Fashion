@@ -68,7 +68,7 @@ The History of Fashion website is designed to educate users about the evolution 
 
 ![Menu screenshot](assets/readme-images/menu-screenshot.png)
 
-**Footer:**
+**Footer**:
 
 - The footer includes four social media icons (Instagram, Twitter, Facebook, Youtube) that opens in new tabs, maintaining a clean, minimal design with a light background.
 
@@ -129,15 +129,19 @@ The History of Fashion website is designed to educate users about the evolution 
 The HTML pages were tested using the [W3C HTML5 Validator](https://validator.w3.org/) and passed with no errors. 
 
 Home Page HTML validation screenshot:
+
 ![Home screenshot](assets/readme-images/html-home-validation.png)
 
 Gallery Page HTML validation screenshot:
+
 ![Gallery screenshot](assets/readme-images/html-gallery-validation.png)
 
 Contact Page HTML validation screenshot:
+
 ![Contact screenshot](assets/readme-images/html-contact-validation.png)
 
 404 Page HTML validation screenshot:
+
 ![404 screenshot](assets/readme-images/html-404-validation.png)
 
 #### CSS Validation
@@ -145,11 +149,13 @@ Contact Page HTML validation screenshot:
 The CSS was tested using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and passed with no errors.
 
 CSS validation screenshot:
+
 ![Css screenshot](assets/readme-images/css-style-validation.png)
 
 #### Responsiveness
 
 Tested across multiple devices and screen sizes, including tablets, and desktops.
+
 ![screenshot](assets/readme-images/responsivness-across-different-screen-sizes.png)
 ![screenshot](assets/readme-images/responsivness.png)
 
