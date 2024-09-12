@@ -32,42 +32,47 @@
 
 ### Project Overview
 
-The History of Fashion website is designed to educate users about the evolution of fashion through different eras, highlight significant fashion events, showcase influential designers and provide curated articles and quotes on fashion. It features a mobile-first responsive design to ensure accessibility and a smooth user experience across various devices.
+The   History  of Fashion  website  is designed to educate  users about the   evolution   of fashion  through  different   eras, highlight   significant fashion  events,  showcase influential designers   and   provide  curated  articles and   quotes   on fashion. It features a  mobile-first   responsive  design   to ensure   accessibility  and   a  smooth   user  experience  across   various  devices.
 
 ### Features
 
 #### Home Page
-![home   page  screenshot](assets/readme-images/homepage-screenshot.png)
 
-- Responsive Navbar: A toggle navigation menu for easy access to different pages.
-- Hero Section: A visually appealing introduction with background images and descriptive text.
-- Informative Content Sections:
-  - History of Fashion: Information about the evolution of fashion across different eras.
-  - Important Fashion Events: Highlights events that have shaped the fashion industry.
-  - Famous Designers: Lists influential designers with links to their official websites.
-  - Articles: A section dedicated to articles about various fashion topics.
-  - Famous Quotes: Inspirational quotes related to fashion and style.
-- Social Media Links: Icons with links to relevant social media platforms.
+- **Responsive Navbar**:   A  toggle   navigation  menu  for   easy  access   to different   pages.
+- **Hero Section**:  A  visually appealing   introduction   with  background  images   and   descriptive text.
+- **Informative   Content  Sections**:
+  - **History  of Fashion**:  Information about the   evolution   of fashion  across   different   eras.
+  - **Important   Fashion  Events**:   Highlights  events   that  have  shaped   the   fashion  industry.
+  - **Famous   Designers**:   Lists influential designers   with  links to their official websites.
+  - **Articles**: A  section  dedicated   to articles about various  fashion  topics.
+  - **Famous   Quotes**:   Inspirational  quotes   related  to fashion  and   style.
+- **Social  Media Links**: Icons with  links to relevant social   media platforms.
+
+![Home   page  screenshot](assets/readme-images/homepage-screenshot.png)
 
 #### Gallery Page
 
-![gallery page screenshot](assets/readme-images/gallerypage-screenshot.png)
+- **Gallery Section**: Displays a grid of images showcasing fashion icons like [Vivienne Westwood](https://www.viviennewestwood.com/),   [Coco  Chanel](https://www.chanel.com/),  [Christian   Dior](https://www.dior.com/)  and others.
 
-- Gallery Section: Displays a grid of images showcasing fashion icons like Vivienne Westwood, Chanel, and others.
+![Gallery page screenshot](assets/readme-images/gallerypage-screenshot.png)
 
 #### Contact Page
 
-![contact page screenshot](assets/readme-images/contactpage-screenshots.png)
+- **Contact Form**:  A simple form that allows users to send inquiries or messages.
 
-- A simple form that allows users to send inquiries or messages.
+![Contact page screenshot](assets/readme-images/contactpage-screenshots.png)
 
-##### Menu
+**Navigation   bar:**
 
-![menu screenshot](assets/readme-images/menu-screenshot.png)
+-  The   navigation  bar   is available   on all   three pages and   includes links to Logo, Home, Gallery  and   Contact  pages.   It's  the   same  on every page, making   it easy  for   users to move  between  pages on any   device   without  needing  to use   the   back  button.
 
-##### Footer
+![Menu screenshot](assets/readme-images/menu-screenshot.png)
 
-![footer screenshot](assets/readme-images/footer-screenshot.png)
+**Footer:**
+
+-  The   footer   includes four  social   media icons (Instagram, Twitter, Facebook,   Youtube) that  opens in new   tabs, maintaining a  clean,   minimal  design   with  a  light background.
+
+![Footer screenshot](assets/readme-images/footer-screenshot.png)
 
 ---
 
@@ -75,21 +80,21 @@ The History of Fashion website is designed to educate users about the evolution 
 
 #### User Stories
 
-1. As a user, I want to learn about the different eras of fashion, understanding how fashion has evolved over time.
-2. As a visitor, I want to view a gallery of images, read articles, and explore fashion trends.
-3. As an enthusiast, I want to read famous quotes and sign up for more information or newsletters.
+1. As a  user, I  want  to learn about the   different   eras  of fashion, understanding  how   fashion  has   evolved  over  time.
+2. As a  visitor, I  want  to view  a  gallery  of images,  read  articles,   and   explore  fashion  trends.
+3. As an enthusiast, I  want  to read  famous   quotes   and   contact  for   more  information or newsletters  through  the   contact  form.
 
 #### Design
 
 ##### Colour Scheme
 
-- Primary Colours: A soft cream (#eff3bd) and coral (#ffb347) to create a vintage feel.
+-  Primary   Colours: A  soft  cream (#eff3bd)   and   coral (#ffb347)   to create   a  vintage  feel.
 
-![color pallette screenshot](assets/readme-images/color-pallette.png)
+![Color pallette screenshot](assets/readme-images/color-pallette.png)
 
-- Accent Colours: A darker shade (#161616f8) for text to ensure readability.
+-  Accent   Colours: A  darker   shade (#161616f8) for   text  to ensure   readability.
 
-![color pallette screenshot](assets/readme-images/colour-pallette.png)
+![Color pallette screenshot](assets/readme-images/colour-pallette.png)
 
 ##### Typography
 
@@ -109,11 +114,11 @@ The History of Fashion website is designed to educate users about the evolution 
 ### Technologies Used
 
 - HTML5: For structure and content.
-- CSS3: For styling and responsive design.
-- Font Awesome: For icons used in the social media links.
-- Google Fonts: For typography.
-- Pexels and Unsplash: For images.
-- TinyPNG: For optimizing the images.
+- CSS3:  For styling and responsive design.
+- Font Awesome:   For icons used in the social media links.
+- Google Fonts:   For typography.
+- Pexels and Unsplash:  For images.
+- TinyPNG:  For optimizing the images.
 
 ---
 
@@ -124,13 +129,13 @@ The History of Fashion website is designed to educate users about the evolution 
 The HTML pages were tested using the [W3C HTML5 Validator](https://validator.w3.org/) and passed with no errors. 
 
 Home  Page  HTML  validation  screenshot:
-![home screenshot](assets/readme-images/html-home-validation.png)
+![Home screenshot](assets/readme-images/html-home-validation.png)
 
 Gallery  Page  HTML  validation  screenshot:
-![gallery screenshot](assets/readme-images/html-gallery-validation.png)
+![Gallery screenshot](assets/readme-images/html-gallery-validation.png)
 
 Contact  Page  HTML  validation  screenshot:
-![contact screenshot](assets/readme-images/html-contact-validation.png)
+![Contact screenshot](assets/readme-images/html-contact-validation.png)
 
 404   Page  HTML  validation  screenshot:
 ![404 screenshot](assets/readme-images/html-404-validation.png)
@@ -140,7 +145,7 @@ Contact  Page  HTML  validation  screenshot:
 The CSS was tested using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and passed with no errors.
 
 CSS   validation  screenshot:
-![css screenshot](assets/readme-images/css-style-validation.png)
+![Css screenshot](assets/readme-images/css-style-validation.png)
 
 #### Responsiveness
 
@@ -158,19 +163,19 @@ The website was tested using  Lighthouse   [PageSpeed Insights](https://pagespee
 
  - Mobile:
 
- ![screenshot home](assets/readme-images/lighthouse-home-mobile.png)
- ![screenshot gallery](assets/readme-images/lighthouse-gallery-mobile.png)
- ![screenshot contact](assets/readme-images/lighthouse-contact-mobile.png)
+ ![Screenshot home](assets/readme-images/lighthouse-home-mobile.png)
+ ![Screenshot gallery](assets/readme-images/lighthouse-gallery-mobile.png)
+ ![Screenshot contact](assets/readme-images/lighthouse-contact-mobile.png)
 
 -  Desktop:
 
-![screenshot home](assets/readme-images/lighthouse-home-desktop.png)
-![screenshot gallery](assets/readme-images/lighthouse-gallery-desktop.png) 
-![screenshot contact](assets/readme-images/lighthouse-contact-desktop.png)
+![Screenshot home](assets/readme-images/lighthouse-home-desktop.png)
+![Screenshot gallery](assets/readme-images/lighthouse-gallery-desktop.png) 
+![Screenshot contact](assets/readme-images/lighthouse-contact-desktop.png)
 
 #### Performance
 
-The images were optimized using TinyPNG and Lighthouse reports were run to check the load time.
+The images were optimized using [TinyPNG](https://tinypng.com/) and Lighthouse reports were run to check the load time.
 
 #### Link Testing
 
@@ -200,12 +205,12 @@ To deploy this project:
 
 ### Credits
 
-- **Content:** Information about the history of fashion was sourced from websites like Wikipedia and other fashion websites.
-- **Images:** All images used in the project are from Unsplash and Pexels, a source of free high-resolution photos.
+- **Content:** Information about the history of fashion was sourced from websites like [Wikipedia](https://www.wikipedia.org/) and other fashion websites.
+- **Images:** All images used in the project are from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/), a source of free high-resolution photos.
 - **Quotes and Articles:** From various fashion blogs.
-- **Code Inspiration:** Various design and functionality ideas were inspired by tutorials from the Code Institute course and web development resources like MDN Web Docs.
-- **Footer Icons:** FontAwesome.
-- **Fonts:** Google Fonts.
+- **Code Inspiration:** Various design and functionality ideas were inspired by tutorials from the [Code Institute](https://codeinstitute.net/) course and web development resources like [MDN Web Docs](https://developer.mozilla.org/en-US/).
+- **Footer Icons:** [FontAwesome](https://fontawesome.com/).
+- **Fonts:** [Google Fonts](https://fonts.google.com/).
 
 ---
 
