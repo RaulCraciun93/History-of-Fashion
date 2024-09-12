@@ -141,15 +141,15 @@ Tested across multiple devices and screen sizes, including tablets, and desktops
 The website was tested on different browsers (Chrome, Firefox, and Safari) to ensure compatibility.
 
 #### Accessibility
-The website was tested using  Lighthouse   [PageSpeed Insights](https://pagespeed.web.dev/) to ensure accessibility. It achieved high scores for Accessibility,  Best  Practices and SEO.
+The website was tested using  Lighthouse   [PageSpeed Insights](https://pagespeed.web.dev/) to ensure accessibility. It achieved high scores of 100 for Accessibility,  Best  Practices and SEO.
 
  Mobile:
 
-![screenshot home](assets/readme-images/page-insight-home-mobile.png) ![screenshot gallery](assets/readme-images/page-insight-gallery-mobile.png)  ![screenshot contact](assets/readme-images/page-insight-contact-mobile.png)
+![screenshot home](assets/readme-images/lighthouse-home-mobile.png) ![screenshot gallery](assets/readme-images/lighthouse-gallery-mobile.png)  ![screenshot contact](assets/readme-images/lighthouse-contact-mobile.png)
 
 -  Desktop:
 
-![screenshot home](assets/readme-images/page-insight-home-desktop.png) ![screenshot gallery](assets/readme-images/page-insight-gallery-desktop.png)  ![screenshot contact](assets/readme-images/page-insight-contact-desktop.png)
+![screenshot home](assets/readme-images/lighthouse-home-desktop.png) ![screenshot gallery](assets/readme-images/lighthouse-gallery-desktop.png)  ![screenshot contact](assets/readme-images/lighthouse-contact-desktop.png)
 
 #### Performance
 The images were optimized using TinyPNG and Lighthouse reports were run to check the load time.
