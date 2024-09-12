@@ -98,7 +98,7 @@ main {
     padding: 0.5rem 1rem;
     margin: 1rem auto;
     max-width: 90%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 }
 
@@ -113,7 +113,7 @@ main {
     padding: 0.5rem 1rem;
     margin: 1rem auto;
     max-width: 90%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 }
 
@@ -128,7 +128,7 @@ main {
     padding: 0.5rem 1rem;
     margin: 0 auto;
     max-width: 90%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 }
 
@@ -151,7 +151,7 @@ main {
     padding: 0.5rem 1rem;
     margin: 1rem auto;
     max-width: 90%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 }
 
@@ -185,7 +185,7 @@ main {
     padding: 0.5rem 1rem;
     margin: 1rem auto;
     max-width: 90%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 }
 
@@ -198,7 +198,7 @@ main {
     padding: 1rem;
     margin: 1rem auto;
     max-width: 90%;
-    background-color: rgba(239, 243, 189, 0.3);
+    background-color: rgba(239, 243, 189, 0.7);
     border-radius: 10px;
 }
 
@@ -251,7 +251,7 @@ form textarea {
 }
 
 form button[type="submit"] {
-    background-color: #d96a56;
+    background-color: #c4503b;
     color: #fff;
     padding: 0.7rem 1.5rem;
     border: none;
@@ -260,7 +260,7 @@ form button[type="submit"] {
 }
 
 form button[type="submit"]:hover {
-    background-color: #c65544;
+    background-color: #c4503b;
 }
 
 /* Footer */
@@ -298,7 +298,7 @@ footer {
 }
 
 #designer-links a:hover {
-    color: #d96a56;
+    color: #c4503b;
     text-decoration: underline;
 }
 
@@ -413,7 +413,7 @@ footer {
         font-size: 1.1rem;
         line-height: 1.6;
         max-width: 60%;
-        background-color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0.7);
         border-radius: 10px;
         padding: 1rem 1.5rem;
         padding-bottom: 2rem;
@@ -425,7 +425,7 @@ footer {
         font-size: 1.1rem;
         line-height: 1.6;
         max-width: 60%;
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgba(0, 0, 0, 0.7);
         border-radius: 10px;
         padding: 1rem 1.5rem;
         padding-bottom: 2rem;
@@ -437,7 +437,7 @@ footer {
         font-size: 1.1rem;
         line-height: 1.6;
         max-width: 60%;
-        background-color: rgba(0, 0, 0, 0.5);
+        background-color: rgba(0, 0, 0, 0.7);
         border-radius: 10px;
         padding: 1rem 1.5rem;
         padding-bottom: 2rem;
@@ -449,7 +449,7 @@ footer {
         font-size: 1.1rem;
         line-height: 1.6;
         max-width: 60%;
-        background-color: rgba(0, 0, 0, 0.6);
+        background-color: rgba(0, 0, 0, 0.7);
         border-radius: 10px;
         padding: 1rem 1.5rem;
         padding-bottom: 2rem;

@@ -84,6 +84,8 @@ The History of Fashion website is designed to educate users about the evolution 
 
 - Accent Colours: A darker shade (#161616f8) for text to ensure readability.
 
+![color pallette screenshot](assets/readme-images/colour-pallette.png)
+
 ##### Typography
 - Body Text: ‘Merriweather’, sans-serif - Designed and pleasant for on-screen reading.
 - Headings: ‘Playfair Display’, sans-serif - For the high contrast between its thick and thin lines.
