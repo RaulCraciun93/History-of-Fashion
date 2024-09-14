@@ -13,7 +13,6 @@
      - [Colour Scheme](#colour-scheme)
      - [Typography](#typography)
      - [Imagery](#imagery)
-     - [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
 5. [Testing](#testing)
    - [HTML Validation](#html-validation)
@@ -104,10 +103,6 @@ The History of Fashion website is designed to educate users about the evolution 
 ##### Imagery
 
 - Large, high-quality images are used throughout to engage users visually.
-
-##### Wireframes
-
-![screenshots]
 
 ---
 
@@ -228,4 +223,4 @@ To deploy this project:
 
 ### Acknowledgements
 
-- I would like to thank my mentor Rory and Code Institute for providing guidance and resources for this project.
+- I would like to thank my mentor [Rory Patrick Sheridan](https://github.com/Ri-Dearg), [Code Institute](https://codeinstitute.net) for providing guidance and resources for this project, tutor team and [Slack community](https://code-institute-room.slack.com) for helping out with different issues throughout the project.
